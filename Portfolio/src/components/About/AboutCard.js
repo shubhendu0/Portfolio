@@ -12,7 +12,7 @@ function AboutCard() {
             from <span className="purple"> Lucknow, India.</span>
             <br />
             <br />
-            I am currently employed as a mern stack developer at PPR Technologies.
+            I am currently employed as a mern stack developer at PRR Technologies.
             <br />
             <br />
             I have completed BSc in Physics and done Full Stack Web Development course from Newton School. 
